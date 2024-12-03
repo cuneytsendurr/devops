@@ -1,0 +1,1 @@
+print("sunum çok zor")
